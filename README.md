@@ -15,16 +15,6 @@ This site is a minimal, dark-themed landing page focused on:
 - JavaScript
 - GitHub Pages compatible
 
-## Project Structure
-
-.
-├── index.html
-├── style.css
-├── script.js
-├── favicon.svg
-├── social-preview.jpg
-└── README.md
-
 ## Features
 
 - clean one-page layout
