@@ -454,13 +454,25 @@ body::before {
 
 @media (max-width: 560px) {
   .nav {
-    align-items: flex-start;
-    flex-direction: column;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
   }
 
   .nav nav {
-    width: 100%;
-    justify-content: flex-start;
+    width: auto;
+    justify-content: flex-end;
+    gap: 12px;
+  }
+
+  .nav nav a {
+    font-size: 0.7rem;
+    letter-spacing: 0.08em;
+  }
+
+  .brand-name.main {
+    font-size: 0.8rem;
+    letter-spacing: 0.1em;
   }
 
   .footer {
