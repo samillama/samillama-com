@@ -3,8 +3,8 @@
 Personal static website for Samil Lama.
 
 This site is a minimal, dark-themed landing page focused on:
-- enterprise infrastructure
-- automation
+- Enterprise Infrastructure
+- Automation
 - AI-driven platforms
 - Infrastructure-as-Code
 
@@ -17,13 +17,13 @@ This site is a minimal, dark-themed landing page focused on:
 
 ## Features
 
-- clean one-page layout
-- responsive, mobile-friendly design
-- subtle motion and reveal animations
-- inline SVG social icons (no external dependencies)
+- Clean one-page layout
+- Responsive, mobile-friendly design
+- Subtle motion and reveal animations
+- Inline SVG social icons (no external dependencies)
 - Open Graph and Twitter meta tags
-- mailto contact CTA
-- lightweight (no frameworks)
+- Mailto contact CTA
+- Lightweight (no frameworks)
 
 ## License & Copyright
 
@@ -33,9 +33,9 @@ All rights reserved.
 This project and its source code are proprietary.
 
 You may NOT:
-- copy or redistribute this code
-- modify or reuse it for personal or commercial projects
-- publish derivative works based on this repository
+- Copy or redistribute this code
+- Modify or reuse it for personal or commercial projects
+- Publish derivative works based on this repository
 
 without explicit written permission.
 
@@ -45,6 +45,6 @@ mail@samillama.com
 ## Notes
 
 This project is intentionally minimal and framework-free to ensure:
-- performance
-- portability
-- simplicity
+- Performance
+- Portability
+- Simplicity
